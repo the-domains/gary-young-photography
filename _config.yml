@@ -22,7 +22,7 @@ color:
     - '#615f60'
     - '#bebebe'
     - '#969696'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0
   saturation: 0
   rhythmicContrast: 1
