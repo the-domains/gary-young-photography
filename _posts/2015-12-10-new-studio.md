@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-10T02:52:56.452Z'
+datePublished: '2015-12-10T03:13:39.507Z'
 publisher:
   domain: ''
   name: ''
 title: 'New Studio!!'
-dateModified: '2015-12-10T02:49:49.950Z'
+dateModified: '2015-12-10T02:52:56.452Z'
 sourcePath: _posts/2015-12-10-new-studio.md
 published: true
 inFeed: true
