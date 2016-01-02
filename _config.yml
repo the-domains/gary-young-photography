@@ -1,6 +1,6 @@
 name: Gary Young Photography
 favicon: null
-layout_spectrum: 0.99956
+layout_spectrum: 1
 typography_spectrum: 0.92958
 title: Boston Wedding Photographer
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#000000'
     - '#ffffff'
-    - '#272425'
-    - '#615f60'
-    - '#bebebe'
-    - '#969696'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
+    - '#62c2ce'
+    - '#2c2c2d'
+    - '#438087'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.625
   rhythmicContrast: 1
 purpose: []
